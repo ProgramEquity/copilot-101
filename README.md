@@ -93,4 +93,16 @@ Check out the project board here, depending on what you choose..here are some he
 - Files are here: https://github.com/ProgramEquity/amplify/tree/main/.github/workflows
 - Create a wiki of all workflows by typing into chat "explain this to me and what endpoints are important" 
 - Bonus: generate a mermaid.live graphic of all workflows
-- Bonus: Make issues by asking to refactor for efficiency 
+- Bonus: Make issues by asking to refactor for efficiency
+- 
+
+
+## Troubleshooting
+
+- Reinstall the Copilot extension.
+- Ensure you are signed into GitHub, either via CodeSpace or the web interface.
+- If necessary, sign out of GitHub and then sign back in.
+- Copilot will prompt you to allow access.
+- Once access is granted, you can start using Copilot for enhanced coding assistance.
+- Note that students can use Copilot for free with a student email.
+- If copilot is not an option there are a few alternatives such as [Codeium](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium) and [CodiumAI](https://www.codium.ai/)
