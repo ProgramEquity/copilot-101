@@ -104,5 +104,3 @@ Check out the project board here, depending on what you choose..here are some he
 - If necessary, sign out of GitHub and then sign back in.
 - Copilot will prompt you to allow access.
 - Once access is granted, you can start using Copilot for enhanced coding assistance.
-- Note that students can use Copilot for free with a student email.
-- If copilot is not an option there are a few alternatives such as [Codeium](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium) and [CodiumAI](https://www.codium.ai/)
