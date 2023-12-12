@@ -83,7 +83,7 @@ Check out the project board here, depending on what you choose..here are some he
   - Bonus if you want to create issues for further work on the project: How would I refactor this to be more robust
 
 ### Tests: 
- - Files are here https://github.com/ProgramEquity/amplify/tree/main/server/__tests__
+ - [Files are here](https://github.com/ProgramEquity/amplify/tree/main/server/__tests__)
  - highlight code snippet and type into chat "Explain this test to me"
  - general question and possible addition to wiki "why do we use jest framework", "what are advantages of jest over chai"
  - Bonus if you want to create issues for further work on the project: highlight code snippet and type into chat "how would I mock data for this" and "mock an array of data for this test". Make an issue out of the output. 
